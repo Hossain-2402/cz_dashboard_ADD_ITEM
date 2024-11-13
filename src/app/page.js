@@ -25,7 +25,6 @@ export default function Home() {
               appearance={{
                 button: {
                   background : 'black',
-                  content: "n"
                 },
 
               }}
@@ -52,7 +51,6 @@ export default function Home() {
               appearance={{
                 button: {
                   background : 'black',
-                  content: "n"
                 },
 
               }}
@@ -79,7 +77,6 @@ export default function Home() {
               appearance={{
                 button: {
                   background : 'black',
-                  content: "n"
                 },
 
               }}
@@ -106,7 +103,6 @@ export default function Home() {
               appearance={{
                 button: {
                   background : 'black',
-                  content: "n"
                 },
 
               }}
@@ -133,7 +129,6 @@ export default function Home() {
               appearance={{
                 button: {
                   background : 'black',
-                  content: "n"
                 },
 
               }}
